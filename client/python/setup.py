@@ -44,5 +44,5 @@ setup(
         'Topic :: Games/Entertainment :: Simulation',
         'Topic :: Internet'
     ],
-    {typed_files}
+#    {typed_files}
 )
